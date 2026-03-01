@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI,deep learning,python.**
 
-- 💬 Ask me about **C,C++,JAVA.**
+- 💬 Ask me about **python ,djnago , ai ,c,c++.**
 
 - 📫 How to reach me **vanshikajhala009@gmail.com**
 
